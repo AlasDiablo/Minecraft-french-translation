@@ -36,25 +36,25 @@ item.inspection_filter.name=Inspection Filter
 item.GuideBook.name=§l§nRouters Modulair
 
 # Blocks
-tile.item_router.name=Item Router
+tile.item_router.name=Router D'objet
 
 # Tab Group
 itemGroup.modularrouters=Modular Routers
 
 # GUI Labels & tooltips
-guiText.tooltip.BLACKLIST.1=Whitelist
+guiText.tooltip.BLACKLIST.1=List Blanche
 guiText.tooltip.IGNORE_META.1=Match Metadata
 guiText.tooltip.IGNORE_NBT.1=Match NBT
-guiText.tooltip.IGNORE_OREDICT.1=Use Oredict
+guiText.tooltip.IGNORE_OREDICT.1=Utiliser l'Oredict
 guiText.tooltip.TERMINATE.1=Continue Execution on Match\nThe item router will continue executing subsequent modules, even if this module processes an item.
-guiText.tooltip.BLACKLIST.2=Blacklist
+guiText.tooltip.BLACKLIST.2=List noir
 guiText.tooltip.IGNORE_META.2=Ignore Metadata
 guiText.tooltip.IGNORE_NBT.2=Ignore NBT
 guiText.tooltip.IGNORE_OREDICT.2=Don't use Oredict
 guiText.tooltip.TERMINATE.2=Terminate Execution on Match\nIf this module processes an item, the item router won't execute any subsequent modules on this tick.
-guiText.tooltip.NONE=None
-guiText.tooltip.DOWN=Down
-guiText.tooltip.UP=Up
+guiText.tooltip.NONE=Rien
+guiText.tooltip.DOWN=Bas
+guiText.tooltip.UP=Haut
 guiText.tooltip.LEFT=Left
 guiText.tooltip.RIGHT=Right
 guiText.tooltip.FRONT=Front
@@ -63,7 +63,7 @@ guiText.tooltip.redstone.label=Redstone Mode
 guiText.tooltip.redstone.ALWAYS=Always
 guiText.tooltip.redstone.LOW=Low
 guiText.tooltip.redstone.HIGH=High
-guiText.tooltip.redstone.NEVER=Never
+guiText.tooltip.redstone.NEVER=Jamais
 guiText.tooltip.redstone.PULSE=Pulsed
 guiText.tooltip.regulator.label=Item Regulation: §b%d Item(s)
 guiText.tooltip.regulator.labelFluid=Fluid Regulation: §b%d%%
