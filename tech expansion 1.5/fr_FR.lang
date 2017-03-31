@@ -1,0 +1,106 @@
+item.wrench.name=Expansion Wrench(WIP)
+item.coal_dust.name=Coal Dust
+item.iron_dust.name=Iron Dust
+item.gold_dust.name=Gold Dust
+item.diamond_dust.name=Diamond Dust
+item.copper_dust.name=Copper Dust
+item.tin_dust.name=Tin Dust
+item.silver_dust.name=Silver Dust
+item.lead_dust.name=Lead Dust
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.lead_ingot.name=Lead Ingot
+item.silver_ingot.name=Silver Ingot
+item.electrum_ingot.name=Electrum Ingot
+item.electrum_dust.name=Electrum Dust
+item.invar_ingot.name=Invar Ingot
+item.platinum_ingot.name=Platinum Ingot
+item.copper_plate.name=Copper Plate
+item.iron_plate.name=Iron Plate
+item.lead_plate.name=Lead Plate
+item.electrum_plate.name=Electrum Plate
+item.invar_plate.name=Invar Plate
+item.invar_plate.name=Invar Plate
+item.platinum_plate.name=Platinum Plate
+item.lead_jetpack.name=Lead Infused Jetpack
+item.nickel_ingot.name=Nickel Ingot
+item.nickel_dust.name=Nickel Dust
+item.fueled_ender_pearl.name=Fueled Ender Pearl
+item.tin_gear.name=Tin Gear
+item.speedupgrade_m1.name=Speed Upgrade MK1
+item.speedupgrade_m2.name=Speed Upgrade MK2
+item.speedupgrade_m3.name=Speed Upgrade MK3
+item.energyupgrade.name=Energy Storage Upgrade
+item.te_manual.name=Tech Expansion Manual
+item.upgrade_base.name=Upgrade Base
+item.raw_rubber.name=Raw Rubber
+item.rubber.name=Rubber
+item.plastic.name=Raw Plastic
+item.plastic_sheets.name=Plastic Sheets
+
+tile.rf_conduit_defluxed.name=DeFluxed RF Conduit
+tile.pulverizer.name=Pulverizer
+tile.creative_energy_bank.name=Creative Energy Bank
+tile.rf_furnace.name=RF Furnace
+tile.quarry.name=Expansion Quarry
+tile.metalbender.name=MetalBender
+tile.lead_infused_energy_bank.name=Lead Infused Energy Bank
+tile.electrum_infused_energy_bank.name=Electrum Infused Energy Bank
+tile.coalgen.name=Coal Generator
+tile.lavagen.name=Lava Generator
+tile.endergen.name=Ender Generator
+tile.fluxed_rf_conduit.name=Fluxed RF Conduit
+tile.energized_rf_conduit.name=Energized RF Conduit
+tile.machineframe.name=Machine Base
+tile.conveyor_belt.name=Conveyor Belt
+
+tile.copper_ore.name=Copper Ore
+tile.copper_block.name=Copper Block
+tile.tin_ore.name=Tin Ore
+tile.tin_block.name=Tin Block
+tile.lead_ore.name=Lead Ore
+tile.lead_block.name=Lead Block
+tile.silver_ore.name=Silver Ore
+tile.silver_block.name=Silver Block
+tile.electrum_block.name=Electrum Block
+tile.invar_block.name=Invar Block
+tile.platinum_block.name=Platinum Block
+tile.platinum_ore.name=Platinum Ore
+tile.nickel_block.name=Nickel Block
+tile.nickel_ore.name=Nickel Ore
+tile.cracked_stone.name=Cracked Stone
+tile.burnt_stone.name=Burnt Stone
+
+tile.rubber_sapling.name=Rubber Sapling
+tile.rubber_wood.name=Rubber Log
+tile.rubber_leaves.name=Rubber Leaves
+
+itemGroup.TechExpansion=Tech Expansion
+itemGroup.Conduits=Tech Expansion Conduits
+
+techexpansion.guimanual.index=&bIndex
+techexpansion.guimanual.machines=&bMachines
+techexpansion.guimanual.generators=&bGenerators
+techexpansion.guimanual.upgrades=&bUpgrades
+techexpansion.guimanual.resources=&bMisc
+techexpansion.guimanual.github=&eGithub
+
+techexpansion.guimanual.indextext=Welcome to the Tech Expansion Manual. Here you can find various pieces of information regarding things such as the items/resources, machines/blocks, generators, and upgrades available. This book is W.I.P so there are bound to be missing pieces of information/unimplemented ones, just report them on the github and ill get to working on them.
+techexpansion.guimanual.machinestext=In here you will learn all about the machines available to you aswell as their crafting recipes and some other information. Click the right arrow to proceed.
+techexpansion.guimanual.pulverizertext=The Pulverizer is just like any crusher/macerator you may have used in other mods. It will take an ore or ingot and turn it into the dust form of it. If the input is an ore it will output double of that dust. Which can be smelted into that resources ingot. Its used to create dusts to make other alloys or double ores. Check the Upgrades tab for upgrades.
+techexpansion.guimanual.rffurnacetext=The RF Furnace is basically a furnace that runs on power, and can be upgraded with numerous things. It automatically uses any recipe that is set for a vanilla furnace.
+techexpansion.guimanual.metalbendertext=The Metalbender is an allow flattening block. It creates plates based on the allow that you input. These plates are used for various crafting recipes including for other machines so it is a must.
+techexpansion.guimanual.quarrytext=The Expansion Quarry is a quarry like you may have seen in other mods, it mines for you. It will place a 16x16 area of cobblestone under where it will mine, as well as only mine in the chunk it is placed in. The Quarry requires power and will automatically output mined blocks in an adjacent inventory or spit them on top of itself is none is found.
+
+techexpansion.guimanual.generatorstext=In here you can learn about all the power generation options available in TE. There are many added/being worked on every day. If you have any suggestions post them in the discord and they will be taken into consideration :D
+techexpansion.guimanual.coalgentext=The Coal Generator is a power generation block that accepts anything that can be burned in a furnace. The longer burn time of the item/block the more power will be generated.
+techexpansion.guimanual.endergentext=The Ender Generator is a generator that uses Fueled Ender Pearls to generate power or Ender Pearls(If set in the config). It is like the Coal Generator but on a different fuel source and generates more power.
+techexpansion.guimanual.lavagentext=The Lava Generator is just as it states. It takes lava and turns it into power. Cant get any simpler than that huh? Right click with a lava bucket or hook up liquid pipes to get lava in.
+
+techexpansion.guimanual.upgradestext=In here you can learn all about the upgrades available that you can apply to various machines to your benefit. There are specific ways upgrades must be applied in order to function. You can learn about that here. Note- Upgrades must be places in order in a machine, starting from lowest MK at the top to a higher tier at the bottom, otherwise they will not work.
+techexpansion.guimanual.upgradebasetext=The Upgrade Base is an item required for all the upgrade recipes. By itself its useless, but use it in crafting and you can upgrade your machines.
+techexpansion.guimanual.speedupgradestext=Speed upgrades speed up machines to work faster. There are 3 tiers labeled as MK. MK1 MK2 and MK3. Each upgrade requires the one that came before it. Meaning if you want to use MK3 you need MK1 and MK2 installed as well.
+techexpansion.guimanual.energyupgradestext=Energy Upgrades upgrade the energy a machine can store. They are placed in the slot under the energy bar and duplicate the amount of energy the machine can store. They are currently WIP and do not work.
+
+techexpansion.guimanual.resourcestext=In here you can learn about all the items or blocks that have not been mentioned in any section above. This section includes information on: EX. Jetpacks, Energy Storage, and much more.
+
